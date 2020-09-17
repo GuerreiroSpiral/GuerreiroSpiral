@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋
+### 🖥️ Estudante de Ciência da Computação pela Universidade Federal do Piauí, Campus de Teresina. Sou apaixonado por tudo que envolve Hardware, Retrocomputing, Robótica e Automação. Também desenvolvo aplicativos relacionados com jogos antigos nas horas vagas.
 
-<!--
-**GuerreiroSpiral/GuerreiroSpiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando em uma implementação de uma CPU própria.
+- 🌱 Atualmente aprendendo mais sobre hardware.
+- 👯 Procurando colaborar com qualquer projeto que lide com computação/linguagens de baixo nível, especialmente emuladores de consoles antigos. (´・ω・`)
+- 🌎 Quase nunca faço algo relacionado a web. Está bem distante da minha área de interesse.
+- ⚡ Também gosto muito de Astronomia, Redes Neurais, JRPGs e pássaros. 
 
-Here are some ideas to get you started:
+# Linguagens que utilizo:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuerreiroSpiral)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuerreiroSpiral&show_icons=true&theme=tokyonight)
